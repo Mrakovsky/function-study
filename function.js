@@ -1,1 +1,1 @@
-document.write(試験)
+console.log("試験")
